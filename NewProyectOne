@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T16:18:07.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tH3epRLL9AuK2RzhyMnd" version="21.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-10T16:18:35.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="VgaVdc-WlzM4dquBar1R" version="21.0.2" type="github" pages="3">
   <diagram id="gJLIG7WySsDcsxikE996" name="Casos de Uso">
     <mxGraphModel dx="1428" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,6 +330,7 @@
         <mxCell id="cM_8CY6Sddsf5PgpisRm-19" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="cM_8CY6Sddsf5PgpisRm-18" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="290" as="sourcePoint" />
+            <mxPoint x="50" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="60" y="310" />
               <mxPoint x="100" y="300" />
